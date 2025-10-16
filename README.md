@@ -1,6 +1,7 @@
 # Agenda Tech Brasil
 
 Lista de eventos coletados automaticamente a partir do banco de dados do projeto Agenda Tech Brasil. O conteúdo abaixo é recriado sempre que o banco de dados é atualizado.
+
 ## Eventos em 2025
 <!-- ANO2025:START -->
 ### Junho
