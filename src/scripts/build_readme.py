@@ -48,7 +48,7 @@ README_INTRO = (
     "# Agenda Tech Brasil\n\n"
     "Lista de eventos coletados automaticamente a partir do banco de dados do projeto "
     "Agenda Tech Brasil. O conteúdo abaixo é recriado sempre que o banco de dados é "
-    "atualizado.\n"
+    "atualizado.\n\n"
 )
 
 
