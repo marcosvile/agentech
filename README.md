@@ -128,6 +128,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 8: [Elixir Curitiba 2025](https://elixircuritiba.github.io/) - _Curitiba/PR_ 🏢
 - 8: [NullByte Conference 2025](https://www.nullbyte-con.org/) - _Salvador/BA_ 🏢
 - 8: [ServerlessDays São Paulo 2025](https://sdsp.io) - _São Paulo/SP_ 🏢
+- 8: [DevFest Rio de Janeiro 2025](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/) - _Rio De Janeiro/RJ_ 🏢
 - 8 e 9: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ 🏢
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
@@ -144,6 +145,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 6: [DevFest Porto Alegre 2025](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-caxias-do-sul) - _Porto Alegre/RS_ 🏢
 - 6: [DEVPIRA Festival 2025](https://www.devpira.com.br/eventos/festival2025) - _Piracicaba/SP_ 🏢
 - 6: [DevopsDays Floripa 2025](https://meuingresso.com.br/eventos/devopsdays-floripa-2025) - _Florianópolis/SC_ 🏢
+- 6: [DEVPIRA FESTIVAL 2025](https://www.devpira.com.br/eventos) - _Piracicaba/SP_ 🏢
 - 6 e 7: [BHack Conference 2025](https://bhack.com.br/) - _Belo Horizonte/MG_ 🏢
 - 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ 🏢
 <!-- DEZEMBRO:END -->
