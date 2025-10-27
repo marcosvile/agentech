@@ -115,21 +115,25 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 24 e 25: [MVP Conf](https://mvpconf.com.br/) - _São Paulo/SP_ 🏢
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ 🏢
 - 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ 🏢
+- 25, 26, 27, 28, 29, 30 e 31: [Mercado Livre Hacking Event 2025](https://forms.gle/cs35peycogsm8env9) 💻
 - 28: [FIAP Meetup - Do local ao Global ESG: Amazônia e tecnologia](https://www.meetup.com/pt-br/fiapmeetups/events/311344773/?eventorigin=group_upcoming_events) - _São Paulo/SP_ 🏢
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ 🏢
+- 28, 29 e 30: [BB Digital Week](https://bbdw.com.br) - _Brasília/DF_ 🏢
 - 28, 29, 30 e 31: [Data Science Summit 2025](https://dssbr.com.br/) - _Curitiba/PR_ 🏢
+- 30: [Tecnopuc Experience 2025](https://tecnopuc.pucrs.br/eventos/tecnopuc-experience/) - _Porto Alegre/RS_ 🏢
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 1: [BSides Brasília 2025](https://bsidesbsb.com/) - _Brasília/DF_ 🏢
 - 1: [CodeCon Select Experience 2025](https://codecon.dev/select) - _São Paulo/SP_ 🏢
-- 6 e 7: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paula/SP_ 🏢
+- 6 e 7: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ 🏢
 - 7 e 8: [The Developers Life Weekend 2025](https://weekend.developerslife.tech/evento/6/the-developers-life-weekend-2025-campo-mourao-pr) - _Campo Mourão/PR_ 🏢
 - 8: [Elixir Curitiba 2025](https://elixircuritiba.github.io/) - _Curitiba/PR_ 🏢
 - 8: [NullByte Conference 2025](https://www.nullbyte-con.org/) - _Salvador/BA_ 🏢
 - 8: [ServerlessDays São Paulo 2025](https://sdsp.io) - _São Paulo/SP_ 🏢
 - 8: [DevFest Rio de Janeiro 2025](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/) - _Rio De Janeiro/RJ_ 🏢
 - 8 e 9: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ 🏢
+- 18 e 19: [OpenForum Academy (OFA) Symposium](https://symposium.openforumeurope.org/) - _Rio De Janeiro/RJ_ 🏢
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
 - 21, 22 e 23: [Python Sul 2025 - Porto Alegre](https://sul.python.org.br/) - _Porto Alegre/RS_ 🏢

@@ -8211,6 +8211,22 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Mercado Livre Hacking Event 2025",
+              "data": [
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31"
+              ],
+              "url": "https://forms.gle/cs35peycogsm8env9",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "FIAP Meetup - Do local ao Global ESG: Amazônia e tecnologia",
               "data": [
                 "28"
@@ -8232,6 +8248,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "BB Digital Week",
+              "data": [
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://bbdw.com.br",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Data Science Summit 2025",
               "data": [
                 "28",
@@ -8242,6 +8270,16 @@
               "url": "https://dssbr.com.br/",
               "cidade": "Curitiba",
               "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tecnopuc Experience 2025",
+              "data": [
+                "30"
+              ],
+              "url": "https://tecnopuc.pucrs.br/eventos/tecnopuc-experience/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
               "tipo": "presencial"
             }
           ]
@@ -8277,7 +8315,7 @@
                 "07"
               ],
               "url": "https://www.diadoacbr.com.br/",
-              "cidade": "São Paula",
+              "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
             },
@@ -8341,6 +8379,17 @@
               "url": "https://ethlatam.org/pt",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "OpenForum Academy (OFA) Symposium",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://symposium.openforumeurope.org/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
               "tipo": "presencial"
             },
             {
