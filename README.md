@@ -27,7 +27,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ 🏢
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ 🏢
 - 24: [Boas práticas para dominar o GitHub Copilot Chat com Cyynthia Zanoni](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865224) 💻
-- 24: [Boas práticas para dominar o GitHub Copilot Chat](http://developer.microsoft.com/pt-br/reactor/events/25931/) 💻
 - 25: [cTENcf Santa Catarina: 10 Anos de Cloud Native](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-ctencf-santa-catarina-10-anos-de-cloud-native/) - _Florianópolis/SC_ 🏢
 - 26: [Integrações Práticas com MCP Servers no VS Code e GitHub Copilot com Cynthia Zanoni](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865251) 💻
 - 26: [[Meetup Clojure BR] Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.meetup.com/clojure-br/events/308109054) 💻
@@ -41,8 +40,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 4: [Python Norte 2025](https://2025.pythonnorte.org/pt) - _Belém/PA_ 🏢
 - 10: [Licenciamento, Arquitetura e IA com Go - #97](https://www.meetup.com/golangbr/events/308672602/) - _São Paulo/SP_ 🏢
 - 15: [Meetup: Egde Computing no frontend: Construindo aplicações web ultra rápidas e escaláveis](https://egdecomputingnofrontend.eventize.com.br/) - _Porto Alegre/RS_ 🏢
-- 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ 🏢
-- 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ 🏢
+- 18 e 19: [Codecon Summit 25](https://codecon.dev/summit) - _Curitiba/PR_ 🏢
 - 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ 🏢
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ 🏢
 - 23, 24 e 25: [Expotec 2025](https://www.expotec.org.br/2025/m-index.php) - _João Pessoa/PB_ 🏢
@@ -113,7 +111,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 22, 23, 24 e 25: [Latinoware](https://latinoware.org/) - _Foz Do Iguaçu/PR_ 🏢
 - 24: [Brazil JS 2025](https://conf.braziljs.org/) - _Porto Alegre/RS_ 🏢
 - 24 e 25: [MVP Conf 2025 Brasil](https://mvpconf.com.br/) - _São Paulo/SP_ 🏢
-- 24 e 25: [MVP Conf](https://mvpconf.com.br/) - _São Paulo/SP_ 🏢
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ 🏢
 - 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ 🏢
 - 25, 26, 27, 28, 29, 30 e 31: [Mercado Livre Hacking Event 2025](https://forms.gle/cs35peycogsm8env9) 💻
@@ -138,7 +135,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
 - 21, 22 e 23: [Python Sul 2025 - Porto Alegre](https://sul.python.org.br/) - _Porto Alegre/RS_ 🏢
-- 21, 22 e 23: [Python Sul 2025](https://sul.python.org.br/) - _Porto Alegre/RS_ 🏢
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ 🏢
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ 🏢
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ 🔀
@@ -150,7 +146,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 6: [DevFest Porto Alegre 2025](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-caxias-do-sul) - _Porto Alegre/RS_ 🏢
 - 6: [DEVPIRA Festival 2025](https://www.devpira.com.br/eventos/festival2025) - _Piracicaba/SP_ 🏢
 - 6: [DevopsDays Floripa 2025](https://meuingresso.com.br/eventos/devopsdays-floripa-2025) - _Florianópolis/SC_ 🏢
-- 6: [DEVPIRA FESTIVAL 2025](https://www.devpira.com.br/eventos) - _Piracicaba/SP_ 🏢
 - 6 e 7: [BHack Conference 2025](https://bhack.com.br/) - _Belo Horizonte/MG_ 🏢
 - 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ 🏢
 <!-- DEZEMBRO:END -->

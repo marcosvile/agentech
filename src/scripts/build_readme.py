@@ -7,6 +7,7 @@ import json
 from datetime import date
 from pathlib import Path
 from typing import Iterable, List, Sequence
+import difflib
 
 MONTH_ORDER = [
     "janeiro",
@@ -83,6 +84,61 @@ def sort_events(events: Iterable[dict]) -> List[dict]:
     return sorted(events, key=first_day)
 
 
+def dedupe_events(events: Sequence[dict]) -> List[dict]:
+    """Remove eventos duplicados baseando-se em data, local e similaridade do nome.
+
+    Dois eventos são considerados iguais se:
+    - tiverem o mesmo conjunto de datas, e
+    - cidade e uf normalizados forem iguais, e
+    - (urls iguais ou similaridade de nome > 0.80)
+
+    Em caso de duplicata, fazemos uma mesclagem simples preferindo campos não vazios
+    e nomes mais longos.
+    """
+
+    unique: List[dict] = []
+    for ev in events:
+        ev_days = set(d.strip() for d in ev.get("data", []))
+        ev_city = (ev.get("cidade") or "").strip().lower()
+        ev_uf = (ev.get("uf") or "").strip().upper()
+        ev_url = (ev.get("url") or "").strip()
+        ev_name = (ev.get("nome") or "").strip()
+
+        merged = False
+        for u in unique:
+            u_days = set(d.strip() for d in u.get("data", []))
+            u_city = (u.get("cidade") or "").strip().lower()
+            u_uf = (u.get("uf") or "").strip().upper()
+            u_url = (u.get("url") or "").strip()
+            u_name = (u.get("nome") or "").strip()
+
+            if ev_days == u_days and ev_city == u_city and ev_uf == u_uf:
+                # same date and location, check url or name similarity
+                same_url = bool(ev_url and u_url and ev_url == u_url)
+                name_sim = difflib.SequenceMatcher(None, ev_name.lower(), u_name.lower()).ratio()
+                if same_url or name_sim >= 0.80:
+                    # merge into u: prefer longer name, prefer non-empty url, prefer defined tipo
+                    if len(ev_name) > len(u_name):
+                        u["nome"] = ev_name
+                    if not u_url and ev_url:
+                        u["url"] = ev_url
+                    # merge cidade/uf if missing
+                    if not u.get("cidade") and ev.get("cidade"):
+                        u["cidade"] = ev.get("cidade")
+                    if not u.get("uf") and ev.get("uf"):
+                        u["uf"] = ev.get("uf")
+                    # prefer explicit tipo
+                    if (u.get("tipo") or "").strip().lower() in ("", "indefinido") and ev.get("tipo"):
+                        u["tipo"] = ev.get("tipo")
+                    merged = True
+                    break
+
+        if not merged:
+            unique.append(dict(ev))
+
+    return unique
+
+
 def format_days(days: Sequence[str]) -> str:
     cleaned = [str(int(day)) for day in days if day]
     if not cleaned:
@@ -138,11 +194,16 @@ def build_readme_content(target_year: dict) -> str:
     sections.append(f"## Eventos em {year_value}\n")
     sections.append(f"<!-- ANO{year_value}:START -->\n")
 
-    months_output = [
-        build_month_section(month)
-        for month in sort_months(target_year.get("meses", []))
-        if not month.get("arquivado") and month.get("eventos")
-    ]
+    months_output = []
+    for month in sort_months(target_year.get("meses", [])):
+        if month.get("arquivado") or not month.get("eventos"):
+            continue
+        # deduplicate month events before formatting
+        events = month.get("eventos", [])
+        deduped = dedupe_events(events)
+        month_copy = dict(month)
+        month_copy["eventos"] = deduped
+        months_output.append(build_month_section(month_copy))
 
     sections.extend(months_output)
     sections.append(f"<!-- ANO{year_value}:END -->\n")
