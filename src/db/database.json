@@ -8062,6 +8062,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Campus Party Weekend Piauí",
+              "data": [
+                "10",
+                "11",
+                "12"
+              ],
+              "url": "https://brasil.campus-party.org/cpweekend/piaui2/",
+              "cidade": "Teresina",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
               "nome": "REC'n Play 2025",
               "data": [
                 "15",
@@ -8093,6 +8105,16 @@
               "url": "https://devopsdays.org/events/2025-campinas/welcome/",
               "cidade": "Campinas",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacktoberfest - UESPI Parnaíba",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.sympla.com.br/evento/hacktoberfest-phb-edition/3150069",
+              "cidade": "Parnaíba",
+              "uf": "PI",
               "tipo": "presencial"
             },
             {
@@ -8309,6 +8331,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Qiskit Fall Fest 2025 - UFABC & IBM Quantum",
+              "data": [
+                "05",
+                "06",
+                "10"
+              ],
+              "url": "https://qiskitbrasil.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Dia do ACBr",
               "data": [
                 "06",
@@ -8377,6 +8411,17 @@
                 "09"
               ],
               "url": "https://ethlatam.org/pt",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "8.8 Matrix Brasil",
+              "data": [
+                "14",
+                "15"
+              ],
+              "url": "https://welcu.com/8dot8/88-matrix-brasil-2025",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"

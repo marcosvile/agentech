@@ -101,9 +101,11 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 4: [MySQL BR Conf 2025](https://mysqlbr.com.br/) - _São Paulo/SP_ 🏢
 - 4: [Jornada do Emprego: como conquistar sua melhor vaga na área de TI](https://experience.cursoemvideo.com/#vaga) 💻
 - 9: [Front Feelings: Acessibilidade & IA no Front](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdg-poa-amp-gufers-front-feelings-1/) - _Porto Alegre/RS_ 🏢
+- 10, 11 e 12: [Campus Party Weekend Piauí](https://brasil.campus-party.org/cpweekend/piaui2/) - _Teresina/PI_ 🏢
 - 15, 16, 17 e 18: [REC'n Play 2025](https://app.jalanlive.com/recnplay2025/home) - _Recife/PE_ 🏢
 - 16 e 17: [Aracomp 2025](https://evento.ufal.br/aracomp2025/) - _Arapiraca/AL_ 🏢
 - 18: [DevOpsDays Campinas 2025](https://devopsdays.org/events/2025-campinas/welcome/) - _Campinas/SP_ 🏢
+- 18: [Hacktoberfest - UESPI Parnaíba](https://www.sympla.com.br/evento/hacktoberfest-phb-edition/3150069) - _Parnaíba/PI_ 🏢
 - 21: [Red Hat Summit: Connect 2025 São Paulo](https://www.redhat.com/es/summit/connect/latam/sao-paulo-2025) - _São Paulo/SP_ 🏢
 - 21, 22, 23 e 24: [ENMC 2025](https://2025.enmc.com.br/programacao) - _Montes Claros/MG_ 🏢
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ 🏢
@@ -124,6 +126,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- NOVEMBRO:START -->
 - 1: [BSides Brasília 2025](https://bsidesbsb.com/) - _Brasília/DF_ 🏢
 - 1: [CodeCon Select Experience 2025](https://codecon.dev/select) - _São Paulo/SP_ 🏢
+- 5, 6 e 10: [Qiskit Fall Fest 2025 - UFABC & IBM Quantum](https://qiskitbrasil.com.br/) 💻
 - 6 e 7: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paulo/SP_ 🏢
 - 7 e 8: [The Developers Life Weekend 2025](https://weekend.developerslife.tech/evento/6/the-developers-life-weekend-2025-campo-mourao-pr) - _Campo Mourão/PR_ 🏢
 - 8: [Elixir Curitiba 2025](https://elixircuritiba.github.io/) - _Curitiba/PR_ 🏢
@@ -131,6 +134,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 8: [ServerlessDays São Paulo 2025](https://sdsp.io) - _São Paulo/SP_ 🏢
 - 8: [DevFest Rio de Janeiro 2025](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/) - _Rio De Janeiro/RJ_ 🏢
 - 8 e 9: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ 🏢
+- 14 e 15: [8.8 Matrix Brasil](https://welcu.com/8dot8/88-matrix-brasil-2025) - _São Paulo/SP_ 🏢
 - 18 e 19: [OpenForum Academy (OFA) Symposium](https://symposium.openforumeurope.org/) - _Rio De Janeiro/RJ_ 🏢
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
