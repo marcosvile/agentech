@@ -8427,6 +8427,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevFest Paraná",
+              "data": [
+                "16"
+              ],
+              "url": "https://devfestpr.com.br/",
+              "cidade": "Ponta Grossa",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "OpenForum Academy (OFA) Symposium",
               "data": [
                 "18",
@@ -8519,6 +8529,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "SWP Summit #11",
+              "data": [
+                "28"
+              ],
+              "url": "https://www.sympla.com.br/evento/swp-summit-11-experience/3052603",
+              "cidade": "Pelotas",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevOpsDays Porto Alegre 2025",
               "data": [
                 "29"
@@ -8545,6 +8565,21 @@
           "mes": "dezembro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "PHP Conference Brasil 2025",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
             {
               "nome": "DevFest Porto Alegre 2025",
               "data": [
@@ -8586,6 +8621,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevFest Porto Alegre 2025",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.sympla.com.br/evento/dev-fest-porto-alegre-2025/3121115?referrer=www.google.com&referrer=www.google.com",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "BHack Conference 2025",
               "data": [
                 "06",
@@ -8594,6 +8639,16 @@
               "url": "https://bhack.com.br/",
               "cidade": "Belo Horizonte",
               "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Recife 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://devopsdays.org/events/2025-recife/welcome/",
+              "cidade": "Recife",
+              "uf": "PE",
               "tipo": "presencial"
             },
             {

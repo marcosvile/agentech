@@ -135,6 +135,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 8: [DevFest Rio de Janeiro 2025](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/) - _Rio De Janeiro/RJ_ 🏢
 - 8 e 9: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ 🏢
 - 14 e 15: [8.8 Matrix Brasil](https://welcu.com/8dot8/88-matrix-brasil-2025) - _São Paulo/SP_ 🏢
+- 16: [DevFest Paraná](https://devfestpr.com.br/) - _Ponta Grossa/PR_ 🏢
 - 18 e 19: [OpenForum Academy (OFA) Symposium](https://symposium.openforumeurope.org/) - _Rio De Janeiro/RJ_ 🏢
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
@@ -142,15 +143,18 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ 🏢
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ 🏢
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ 🔀
+- 28: [SWP Summit #11](https://www.sympla.com.br/evento/swp-summit-11-experience/3052603) - _Pelotas/RS_ 🏢
 - 29: [DevOpsDays Porto Alegre 2025](https://www.sympla.com.br/evento/devopsdays-porto-alegre-2025/3047392?referrer=devopsdays.org) - _Porto Alegre/RS_ 🏢
 - 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ 🔀
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
+- 1, 2, 3, 4, 5 e 6: [PHP Conference Brasil 2025](https://phpconference.com.br/) - _Maringá/PR_ 🏢
 - 6: [DevFest Porto Alegre 2025](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-caxias-do-sul) - _Porto Alegre/RS_ 🏢
 - 6: [DEVPIRA Festival 2025](https://www.devpira.com.br/eventos/festival2025) - _Piracicaba/SP_ 🏢
 - 6: [DevopsDays Floripa 2025](https://meuingresso.com.br/eventos/devopsdays-floripa-2025) - _Florianópolis/SC_ 🏢
 - 6 e 7: [BHack Conference 2025](https://bhack.com.br/) - _Belo Horizonte/MG_ 🏢
+- 13: [DevOpsDays Recife 2025](https://devopsdays.org/events/2025-recife/welcome/) - _Recife/PE_ 🏢
 - 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ 🏢
 <!-- DEZEMBRO:END -->
 <!-- ANO2025:END -->
