@@ -8416,6 +8416,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Santos Digital Week",
+              "data": [
+                "13",
+                "14"
+              ],
+              "url": "https://www.santosdigitalweek.com.br/",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "8.8 Matrix Brasil",
               "data": [
                 "14",
@@ -8455,6 +8466,16 @@
                 "20"
               ],
               "url": "https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "IA no Downstream - Como lideranças podem gerar mais velocidade e qualidade",
+              "data": [
+                "19"
+              ],
+              "url": "https://lts-ia-downstream.base44.app/",
               "cidade": "",
               "uf": "",
               "tipo": "online"

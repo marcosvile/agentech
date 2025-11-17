@@ -134,10 +134,12 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 8: [ServerlessDays São Paulo 2025](https://sdsp.io) - _São Paulo/SP_ 🏢
 - 8: [DevFest Rio de Janeiro 2025](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/) - _Rio De Janeiro/RJ_ 🏢
 - 8 e 9: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ 🏢
+- 13 e 14: [Santos Digital Week](https://www.santosdigitalweek.com.br/) - _Santos/SP_ 🏢
 - 14 e 15: [8.8 Matrix Brasil](https://welcu.com/8dot8/88-matrix-brasil-2025) - _São Paulo/SP_ 🏢
 - 16: [DevFest Paraná](https://devfestpr.com.br/) - _Ponta Grossa/PR_ 🏢
 - 18 e 19: [OpenForum Academy (OFA) Symposium](https://symposium.openforumeurope.org/) - _Rio De Janeiro/RJ_ 🏢
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) 💻
+- 19: [IA no Downstream - Como lideranças podem gerar mais velocidade e qualidade](https://lts-ia-downstream.base44.app/) 💻
 - 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ 🏢
 - 21, 22 e 23: [Python Sul 2025 - Porto Alegre](https://sul.python.org.br/) - _Porto Alegre/RS_ 🏢
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ 🏢
