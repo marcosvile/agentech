@@ -8550,6 +8550,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "PHP Rio",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.sympla.com.br/evento/meetup-de-comunidade-php-em-alta-performance-com-codigo-limpo-seguro-e-centrado-no-usuario/3196792",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "SWP Summit #11",
               "data": [
                 "28"
@@ -8663,6 +8673,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup - PythOnRio",
+              "data": [
+                "10"
+              ],
+              "url": "https://pythonrio.netlify.app/inscreva-se",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevOpsDays Recife 2025",
               "data": [
                 "13"
@@ -8681,6 +8701,16 @@
               "url": "https://gtergts.nic.br/",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DEVFEST Pernambuco",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.devfestpe.com.br/",
+              "cidade": "Recife",
+              "uf": "PE",
               "tipo": "presencial"
             }
           ]

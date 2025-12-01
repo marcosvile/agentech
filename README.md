@@ -145,6 +145,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ 🏢
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ 🏢
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ 🔀
+- 27: [PHP Rio](https://www.sympla.com.br/evento/meetup-de-comunidade-php-em-alta-performance-com-codigo-limpo-seguro-e-centrado-no-usuario/3196792) - _Rio De Janeiro/RJ_ 🏢
 - 28: [SWP Summit #11](https://www.sympla.com.br/evento/swp-summit-11-experience/3052603) - _Pelotas/RS_ 🏢
 - 29: [DevOpsDays Porto Alegre 2025](https://www.sympla.com.br/evento/devopsdays-porto-alegre-2025/3047392?referrer=devopsdays.org) - _Porto Alegre/RS_ 🏢
 - 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ 🔀
@@ -156,7 +157,9 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 6: [DEVPIRA Festival 2025](https://www.devpira.com.br/eventos/festival2025) - _Piracicaba/SP_ 🏢
 - 6: [DevopsDays Floripa 2025](https://meuingresso.com.br/eventos/devopsdays-floripa-2025) - _Florianópolis/SC_ 🏢
 - 6 e 7: [BHack Conference 2025](https://bhack.com.br/) - _Belo Horizonte/MG_ 🏢
+- 10: [Meetup - PythOnRio](https://pythonrio.netlify.app/inscreva-se) - _Rio De Janeiro/RJ_ 🏢
 - 13: [DevOpsDays Recife 2025](https://devopsdays.org/events/2025-recife/welcome/) - _Recife/PE_ 🏢
 - 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ 🏢
+- 26: [DEVFEST Pernambuco](https://www.devfestpe.com.br/) - _Recife/PE_ 🏢
 <!-- DEZEMBRO:END -->
 <!-- ANO2025:END -->
