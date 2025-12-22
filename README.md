@@ -160,6 +160,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 10: [Meetup - PythOnRio](https://pythonrio.netlify.app/inscreva-se) - _Rio De Janeiro/RJ_ 🏢
 - 13: [DevOpsDays Recife 2025](https://devopsdays.org/events/2025-recife/welcome/) - _Recife/PE_ 🏢
 - 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ 🏢
+- 18: [CocoaHeads POA](https://www.meetup.com/cocoaheads-poa/events/312411934/) - _Porto Alegre/RS_ 🏢
 - 26: [DEVFEST Pernambuco](https://www.devfestpe.com.br/) - _Recife/PE_ 🏢
 <!-- DEZEMBRO:END -->
 <!-- ANO2025:END -->
