@@ -8726,6 +8726,58 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2026,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Conecta Tech (Comunidade Nortejs) - Introdução a Next. js",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-introducao-a-next-js-674436/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Conecta Tech/Nortejs - Web Dev Essencial: Da Requisição ao Resultado",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-web-dev-essencial-da-requisicao-ao-resultado-674438/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Conecta Tech/Nortejs - WebSocket: Comunicação em Tempo Real",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-websocket-comunicacao-em-tempo-real-674439/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Conecta Tech - JavaScript + IA: Como o Dev Moderno Está Mudando Sua Rotina e Suas Entregas",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-javascript-ia-como-o-dev-moderno-esta-mudando-sua-rotina-e-suas-entregas-674440/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
