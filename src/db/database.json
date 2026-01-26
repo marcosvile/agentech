@@ -8756,6 +8756,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "0b11 Maratona de Programação Layers",
+              "data": [
+                "17"
+              ],
+              "url": "https://maratona.layers.education/?ref=gh-at",
+              "cidade": "Grande São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Conecta Tech/Nortejs - WebSocket: Comunicação em Tempo Real",
               "data": [
                 "19"
@@ -8766,6 +8776,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Paraibajs",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.sympla.com.br/evento/meetup-paraibajs/3257752",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Conecta Tech - JavaScript + IA: Como o Dev Moderno Está Mudando Sua Rotina e Suas Entregas",
               "data": [
                 "26"
@@ -8773,6 +8793,22 @@
               "url": "https://www.even3.com.br/conecta-tech-javascript-ia-como-o-dev-moderno-esta-mudando-sua-rotina-e-suas-entregas-674440/",
               "cidade": "Manaus",
               "uf": "AM",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "AWSome Women Community Summit Brasil 2026",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com",
+              "cidade": "Recife",
+              "uf": "PE",
               "tipo": "presencial"
             }
           ]
