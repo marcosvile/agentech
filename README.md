@@ -13,6 +13,11 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 24: [Paraibajs](https://www.sympla.com.br/evento/meetup-paraibajs/3257752) - _João Pessoa/PB_ 🏢
 - 26: [Conecta Tech - JavaScript + IA: Como o Dev Moderno Está Mudando Sua Rotina e Suas Entregas](https://www.even3.com.br/conecta-tech-javascript-ia-como-o-dev-moderno-esta-mudando-sua-rotina-e-suas-entregas-674440/) - _Manaus/AM_ 🏢
 <!-- JANEIRO:END -->
+### Fevereiro
+<!-- FEVEREIRO:START -->
+- 26 e 27: [Digital Investigation Conference Brazil 2026](https://wbeducacional.ac-page.com/dicb-2026) - _Porto Alegre/RS_ 🏢
+- 28: [SQL Saturday Belo Horizonte 2026](https://sqlsaturday.com/2026-02-28-sqlsaturday1132/) - _Belo Horizonte/MG_ 🏢
+<!-- FEVEREIRO:END -->
 ### Março
 <!-- MARCO:START -->
 - 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com) - _Recife/PE_ 🏢
