@@ -21,5 +21,18 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 ### Março
 <!-- MARCO:START -->
 - 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com) - _Recife/PE_ 🏢
+- 28: [SQL Saturday Brasil](https://sqlsaturday.com.br/) - _Guarulhos/SP_ 🏢
 <!-- MARCO:END -->
+### Junho
+<!-- JUNHO:START -->
+- 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
+<!-- JUNHO:END -->
+### Agosto
+<!-- AGOSTO:START -->
+- 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ 🏢
+<!-- AGOSTO:END -->
+### Setembro
+<!-- SETEMBRO:START -->
+- 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
+<!-- SETEMBRO:END -->
 <!-- ANO2026:END -->

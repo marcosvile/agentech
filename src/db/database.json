@@ -8837,6 +8837,69 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "SQL Saturday Brasil",
+              "data": [
+                "28"
+              ],
+              "url": "https://sqlsaturday.com.br/",
+              "cidade": "Guarulhos",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "junho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Web Summit Rio 2026",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://rio.websummit.com/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Codecon Summit 2026",
+              "data": [
+                "14"
+              ],
+              "url": "https://eventos.codecon.dev/eventos/codecon-summit-26",
+              "cidade": "Pinhais",
+              "uf": "PR",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "setembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Gophercon LATAM 2026",
+              "data": [
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://gopherconlatam.org/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         }
