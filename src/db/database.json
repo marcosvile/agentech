@@ -4990,7 +4990,7 @@
     },
     {
       "ano": 2025,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
         {
           "mes": "janeiro",
@@ -7125,7 +7125,7 @@
         },
         {
           "mes": "junho",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "GitHub Actions: Automatizando IaC com Terraform",
@@ -7425,7 +7425,7 @@
         },
         {
           "mes": "julho",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "AWS UG MOC - Aumentando a Produtividade em Iac com IA",
@@ -7549,7 +7549,7 @@
         },
         {
           "mes": "agosto",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "Leading Tech Sessions: Como Criar e Gerir uma Estratégia de Produto na Prática",
@@ -7754,7 +7754,7 @@
         },
         {
           "mes": "setembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "Simpósio Brasileiro de Cibersegurança - SBSeg 2025",
@@ -7996,7 +7996,7 @@
         },
         {
           "mes": "outubro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "Workshop: Criando Operadores Kubernetes em GoLang com Otávio Celestino",
@@ -8308,7 +8308,7 @@
         },
         {
           "mes": "novembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "BSides Brasília 2025",
@@ -8594,7 +8594,7 @@
         },
         {
           "mes": "dezembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "PHP Conference Brasil 2025",
@@ -8802,6 +8802,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Hacking Club - Workshop Prático: Introdução ao Pentest em Ambientes Linux e Windows",
+              "data": [
+                "23",
+                "24"
+              ],
+              "url": "https://lp.hackingclub.com/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Digital Investigation Conference Brazil 2026",
               "data": [
                 "26",
@@ -8833,10 +8844,20 @@
               "data": [
                 "14"
               ],
-              "url": "https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com",
+              "url": "https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com",
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "AZBR Summit 2026",
+              "data": [
+                "14"
+              ],
+              "url": "https://azbrsummit.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "SQL Saturday Brasil",
@@ -8846,6 +8867,32 @@
               "url": "https://sqlsaturday.com.br/",
               "cidade": "Guarulhos",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tosconf[6]",
+              "data": [
+                "28"
+              ],
+              "url": "https://tosconf.lhc.net.br",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "maio",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Python Sul 2026",
+              "data": [
+                "01"
+              ],
+              "url": "https://sul.python.org.br/",
+              "cidade": "Londrina",
+              "uf": "PR",
               "tipo": "presencial"
             }
           ]
@@ -8897,6 +8944,22 @@
                 "04"
               ],
               "url": "https://gopherconlatam.org/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "outubro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Python Brasil 2026",
+              "data": [
+                "14"
+              ],
+              "url": "https://2026.pythonbrasil.org.br/",
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"

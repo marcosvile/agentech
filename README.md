@@ -15,14 +15,21 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- JANEIRO:END -->
 ### Fevereiro
 <!-- FEVEREIRO:START -->
+- 23 e 24: [Hacking Club - Workshop Prático: Introdução ao Pentest em Ambientes Linux e Windows](https://lp.hackingclub.com/) 💻
 - 26 e 27: [Digital Investigation Conference Brazil 2026](https://wbeducacional.ac-page.com/dicb-2026) - _Porto Alegre/RS_ 🏢
 - 28: [SQL Saturday Belo Horizonte 2026](https://sqlsaturday.com/2026-02-28-sqlsaturday1132/) - _Belo Horizonte/MG_ 🏢
 <!-- FEVEREIRO:END -->
 ### Março
 <!-- MARCO:START -->
-- 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com) - _Recife/PE_ 🏢
+- 14: [AWSome Women Community Summit Brasil 2026](https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com) - _Recife/PE_ 🏢
+- 14: [AZBR Summit 2026](https://azbrsummit.com.br/) 💻
 - 28: [SQL Saturday Brasil](https://sqlsaturday.com.br/) - _Guarulhos/SP_ 🏢
+- 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ 🏢
 <!-- MARCO:END -->
+### Maio
+<!-- MAIO:START -->
+- 1: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ 🏢
+<!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
@@ -35,4 +42,8 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- SETEMBRO:START -->
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 <!-- SETEMBRO:END -->
+### Outubro
+<!-- OUTUBRO:START -->
+- 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ 🏢
+<!-- OUTUBRO:END -->
 <!-- ANO2026:END -->
