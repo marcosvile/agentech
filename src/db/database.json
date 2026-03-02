@@ -8813,6 +8813,17 @@
               "tipo": "online"
             },
             {
+              "nome": "Começando com AWS - General Immersion Day",
+              "data": [
+                "24",
+                "25"
+              ],
+              "url": "https://aws-experience.com/latam/smb/e/f4222/comecando-com-aws---general-immersion-day",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Digital Investigation Conference Brazil 2026",
               "data": [
                 "26",
@@ -8860,14 +8871,26 @@
               "tipo": "online"
             },
             {
-              "nome": "SQL Saturday Brasil",
+              "nome": "Google Cloud Infrastructure for AWS Professionals - Webinar",
               "data": [
-                "28"
+                "19",
+                "20"
               ],
-              "url": "https://sqlsaturday.com.br/",
-              "cidade": "Guarulhos",
+              "url": "https://rsvp.withgoogle.com/events/gcif_aws_pdt26042",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "TDC Summit São Paulo",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/summit-sao-paulo/",
+              "cidade": "Pinheiros",
               "uf": "SP",
-              "tipo": "presencial"
+              "tipo": "híbrido"
             },
             {
               "nome": "Tosconf[6]",
@@ -8876,6 +8899,16 @@
               ],
               "url": "https://tosconf.lhc.net.br",
               "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SQL Saturday",
+              "data": [
+                "28"
+              ],
+              "url": "https://sqlsaturday.com/2026-03-28-sqlsaturday1142/",
+              "cidade": "Guarulhos",
               "uf": "SP",
               "tipo": "presencial"
             }
@@ -8894,6 +8927,49 @@
               "cidade": "Londrina",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "IA Network Summit",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.even3.com.br/ia-network-summit-652537/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "The Tech Summit",
+              "data": [
+                "11"
+              ],
+              "url": "https://thetechsummit.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AI StartSe Festival 2026",
+              "data": [
+                "13",
+                "14"
+              ],
+              "url": "https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "São Paulo Innovation Week",
+              "data": [
+                "13",
+                "14",
+                "15"
+              ],
+              "url": "https://saopauloinnovationweek.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
@@ -8901,6 +8977,17 @@
           "mes": "junho",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Agile Trends Nordeste",
+              "data": [
+                "01",
+                "02"
+              ],
+              "url": "https://doity.com.br/agile-trends-nordeste-2026",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
             {
               "nome": "Web Summit Rio 2026",
               "data": [
@@ -8917,9 +9004,58 @@
           ]
         },
         {
+          "mes": "julho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDC Floripa 2026",
+              "data": [
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Agile Trends São Paulo",
+              "data": [
+                "31"
+              ],
+              "url": "https://doity.com.br/agile-trends-2026",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "agosto",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Agile Trends São Paulo",
+              "data": [
+                "01"
+              ],
+              "url": "https://doity.com.br/agile-trends-2026",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Experience Rio Innovation Week | Píer Mauá",
+              "data": [
+                "05",
+                "06"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
             {
               "nome": "Codecon Summit 2026",
               "data": [
@@ -8929,6 +9065,17 @@
               "cidade": "Pinhais",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Experience São Carlos",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Carlos",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -8947,6 +9094,18 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC São Paulo",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -8963,6 +9122,40 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "novembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDC Experience Recife | Rec'n'Play",
+              "data": [
+                "11",
+                "12"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "híbrido"
+            }
+          ]
+        },
+        {
+          "mes": "dezembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "TDCX PORTO ALEGRE",
+              "data": [
+                "09",
+                "10"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "híbrido"
             }
           ]
         }
@@ -9038,6 +9231,13 @@
       "url": "https://hackbahia.github.io/",
       "cidade": "Salvador",
       "uf": "BA",
+      "tipo": "presencial"
+    },
+    {
+      "nome": "Latinoware",
+      "url": "https://latinoware.org/",
+      "cidade": "Foz Do Iguaçu",
+      "uf": "PR",
       "tipo": "presencial"
     }
   ]
