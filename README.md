@@ -36,6 +36,8 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ 🏢
 - 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ 🏢
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
+- 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
+- 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ 🏢
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
