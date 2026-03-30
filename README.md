@@ -29,6 +29,10 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ 🏢
 - 28: [SQL Saturday](https://sqlsaturday.com/2026-03-28-sqlsaturday1142/) - _Guarulhos/SP_ 🏢
 <!-- MARCO:END -->
+### Abril
+<!-- ABRIL:START -->
+- 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ 🏢
+<!-- ABRIL:END -->
 ### Maio
 <!-- MAIO:START -->
 - 1: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ 🏢
