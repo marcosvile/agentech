@@ -31,38 +31,46 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- MARCO:END -->
 ### Abril
 <!-- ABRIL:START -->
+- 2: [Código Aberto - Magalu Cloud](https://discord.com/events/1327339621306073171/1487184152167186472) 💻
 - 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ 🏢
+- 29: [Tech Made in Brazil #01 - Magalu Cloud](https://luma.com/g4lgjals) - _São Paulo/SP_ 🏢
 <!-- ABRIL:END -->
 ### Maio
 <!-- MAIO:START -->
 - 1: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ 🏢
 - 8: [IA Network Summit](https://www.even3.com.br/ia-network-summit-652537/) - _São Paulo/SP_ 🏢
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ 🏢
-- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ 🏢
+- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ 🏢
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ 🏢
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
+- 1: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ 🏢
 - 1 e 2: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ 🏢
+- 2: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ 🏢
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
+- 8, 9, 10 e 11: [Web Summit Rio - SaaS Summit](https://rio.websummit.com/pt-br/tracks/saas-summit/) - _Rio De Janeiro/RJ_ 🏢
 - 22, 23 e 24: [TDC Floripa 2026](https://thedevconf.com/tdc/2026/index.html) - _Florianópolis/SC_ 🔀
 - 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ 🏢
 <!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
 - 1: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ 🏢
+- 1: [Mulher Tech Sim Senhor](https://www.instagram.com/mulhertechsimsr/) - _João Pessoa/PB_ 🏢
 - 5 e 6: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ 🔀
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ 🏢
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ 🔀
+- 29: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ 🏢
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
+- 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
 <!-- SETEMBRO:END -->
 ### Outubro
