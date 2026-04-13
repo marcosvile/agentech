@@ -32,6 +32,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 ### Abril
 <!-- ABRIL:START -->
 - 2: [Código Aberto - Magalu Cloud](https://discord.com/events/1327339621306073171/1487184152167186472) 💻
+- 11: [Paraibajs](https://linktr.ee/paraibajs) - _João Pessoa/PB_ 🏢
 - 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ 🏢
 - 29: [Tech Made in Brazil #01 - Magalu Cloud](https://luma.com/g4lgjals) - _São Paulo/SP_ 🏢
 <!-- ABRIL:END -->
@@ -80,6 +81,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
+- 26: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ 🏢
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->

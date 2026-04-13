@@ -8930,6 +8930,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Paraibajs",
+              "data": [
+                "11"
+              ],
+              "url": "https://linktr.ee/paraibajs",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GHC - GYN Hacker Conference",
               "data": [
                 "18"
@@ -9259,6 +9269,16 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Front in Floripa 2026",
+              "data": [
+                "26"
+              ],
+              "url": "https://frontin.floripa.br",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
