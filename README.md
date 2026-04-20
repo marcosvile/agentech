@@ -34,6 +34,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 2: [Código Aberto - Magalu Cloud](https://discord.com/events/1327339621306073171/1487184152167186472) 💻
 - 11: [Paraibajs](https://linktr.ee/paraibajs) - _João Pessoa/PB_ 🏢
 - 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ 🏢
+- 22: [Caminhos pra carreira internacional em Cloud](https://www.linkedin.com/events/7448146395175395328/) - _Montes Claros/MG_ 🏢
 - 29: [Tech Made in Brazil #01 - Magalu Cloud](https://luma.com/g4lgjals) - _São Paulo/SP_ 🏢
 <!-- ABRIL:END -->
 ### Maio
@@ -44,6 +45,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ 🏢
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
+- 28: [Insurtech Brasil](https://www.insurtechbrasil.com/) - _São Paulo/SP_ 🏢
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ 🏢
 <!-- MAIO:END -->
 ### Junho
@@ -71,6 +73,9 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 ### Setembro
 <!-- SETEMBRO:START -->
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
+- 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
+- 3, 4, 5 e 6: [PHP Conference Brasil 2026](https://phpconference.com.br/) 💻
+- 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
 <!-- SETEMBRO:END -->
@@ -82,6 +87,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
 - 26: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ 🏢
+- 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
