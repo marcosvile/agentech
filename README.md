@@ -74,7 +74,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- SETEMBRO:START -->
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
-- 3, 4, 5 e 6: [PHP Conference Brasil 2026](https://phpconference.com.br/) 💻
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
@@ -91,6 +90,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
+- 3, 4, 5 e 6: [PHP Conference Brasil 2026](https://phpconference.com.br/) 💻
 - 9 e 10: [TDCX PORTO ALEGRE](https://thedevconf.com/tdc/2026/index.html) - _Porto Alegre/RS_ 🔀
 <!-- DEZEMBRO:END -->
 <!-- ANO2026:END -->
