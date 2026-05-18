@@ -9029,6 +9029,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Devopsdays Natal",
+              "data": [
+                "16"
+              ],
+              "url": "https://linktr.ee/devopsdaysnatal",
+              "cidade": "Natal",
+              "uf": "RN",
+              "tipo": "presencial"
+            },
+            {
               "nome": "APIX - API Experience",
               "data": [
                 "21"
@@ -9197,6 +9207,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "RogaDX",
+              "data": [
+                "14",
+                "15"
+              ],
+              "url": "https://rogadx.com/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
@@ -9334,6 +9355,17 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "GambiConf 2026",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://gambiconf.dev/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },

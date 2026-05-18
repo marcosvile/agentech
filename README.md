@@ -44,6 +44,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ 🏢
 - 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ 🏢
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
+- 16: [Devopsdays Natal](https://linktr.ee/devopsdaysnatal) - _Natal/RN_ 🏢
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
 - 28: [Insurtech Brasil](https://www.insurtechbrasil.com/) - _São Paulo/SP_ 🏢
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ 🏢
@@ -67,6 +68,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1: [Mulher Tech Sim Senhor](https://www.instagram.com/mulhertechsimsr/) - _João Pessoa/PB_ 🏢
 - 5 e 6: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ 🔀
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ 🏢
+- 14 e 15: [RogaDX](https://rogadx.com/) - _Maceió/AL_ 🏢
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ 🔀
 - 29: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ 🏢
 <!-- AGOSTO:END -->
@@ -87,6 +89,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
 - 26: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ 🏢
 - 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
+- 28 e 29: [GambiConf 2026](https://gambiconf.dev/) - _São Paulo/SP_ 🔀
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
