@@ -8960,6 +8960,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "MiniDebconf Campinas 2026",
+              "data": [
+                "25"
+              ],
+              "url": "https://campinas.mini.debconf.org/sobre/evento/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Tech Made in Brazil #01 - Magalu Cloud",
               "data": [
                 "29"
@@ -9049,6 +9059,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup: Organizando o código com Package by component + C4 + Structurizr",
+              "data": [
+                "26"
+              ],
+              "url": "https://organizandoocodigo.eventize.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Insurtech Brasil",
               "data": [
                 "28"
@@ -9067,6 +9087,16 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "NOSS 2026 - Nosso Open Source Summit",
+              "data": [
+                "30"
+              ],
+              "url": "https://github.com/cumbucadev/noss/tree/main/2026",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
@@ -9116,6 +9146,16 @@
               "url": "https://rio.websummit.com/",
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft Build //localhost:florianópolis",
+              "data": [
+                "20"
+              ],
+              "url": "https://developer.microsoft.com/pt-br/reactor/events/27206/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
               "tipo": "presencial"
             }
           ]
@@ -9280,6 +9320,19 @@
               "cidade": "São Carlos",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "CBSOFT'26 - Congresso Brasileiro de Software",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2026/pt/",
+              "cidade": "Sao Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             },
             {
               "nome": "RecrutaTech 9ª edição",

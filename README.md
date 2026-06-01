@@ -35,6 +35,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 11: [Paraibajs](https://linktr.ee/paraibajs) - _João Pessoa/PB_ 🏢
 - 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ 🏢
 - 22: [Caminhos pra carreira internacional em Cloud](https://www.linkedin.com/events/7448146395175395328/) - _Montes Claros/MG_ 🏢
+- 25: [MiniDebconf Campinas 2026](https://campinas.mini.debconf.org/sobre/evento/) - _Campinas/SP_ 🔀
 - 29: [Tech Made in Brazil #01 - Magalu Cloud](https://luma.com/g4lgjals) - _São Paulo/SP_ 🏢
 <!-- ABRIL:END -->
 ### Maio
@@ -46,8 +47,10 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
 - 16: [Devopsdays Natal](https://linktr.ee/devopsdaysnatal) - _Natal/RN_ 🏢
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
+- 26: [Meetup: Organizando o código com Package by component + C4 + Structurizr](https://organizandoocodigo.eventize.com.br/) - _Porto Alegre/RS_ 🏢
 - 28: [Insurtech Brasil](https://www.insurtechbrasil.com/) - _São Paulo/SP_ 🏢
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ 🏢
+- 30: [NOSS 2026 - Nosso Open Source Summit](https://github.com/cumbucadev/noss/tree/main/2026) 💻
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
@@ -55,6 +58,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1 e 2: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ 🏢
 - 2: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ 🏢
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
+- 20: [Microsoft Build //localhost:florianópolis](https://developer.microsoft.com/pt-br/reactor/events/27206/) - _Florianópolis/SC_ 🏢
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
@@ -77,6 +81,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
+- 8, 9, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ 🔀
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
 <!-- SETEMBRO:END -->
