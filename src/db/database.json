@@ -9157,6 +9157,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Festival SGB Na Estrada Uberlândia",
+              "data": [
+                "20"
+              ],
+              "url": "https://festival.sgb.org.br/uberlandia/",
+              "cidade": "Uberlândia",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9258,6 +9268,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "SEMCOMP 2026 - Semana de Computação de Salvador",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.semcomp.com.br/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
@@ -9284,6 +9308,16 @@
           "mes": "setembro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Simpósio Brasileiro de Cibersegurança 2026",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.sbseg2026.uff.br/",
+              "cidade": "Armação Dos Búzios",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
             {
               "nome": "Gophercon LATAM 2026",
               "data": [
@@ -9333,6 +9367,17 @@
               "cidade": "Sao Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Festival SGB 2026",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://festival.sgb.org.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             },
             {
               "nome": "RecrutaTech 9ª edição",

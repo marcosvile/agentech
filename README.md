@@ -59,6 +59,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 2: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ 🏢
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
 - 20: [Microsoft Build //localhost:florianópolis](https://developer.microsoft.com/pt-br/reactor/events/27206/) - _Florianópolis/SC_ 🏢
+- 20: [Festival SGB Na Estrada Uberlândia](https://festival.sgb.org.br/uberlandia/) - _Uberlândia/MG_ 🏢
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
@@ -73,15 +74,18 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 5 e 6: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ 🔀
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ 🏢
 - 14 e 15: [RogaDX](https://rogadx.com/) - _Maceió/AL_ 🏢
+- 24, 25, 26, 27 e 28: [SEMCOMP 2026 - Semana de Computação de Salvador](https://www.semcomp.com.br/) - _Salvador/BA_ 🏢
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ 🔀
 - 29: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ 🏢
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
+- 1: [Simpósio Brasileiro de Cibersegurança 2026](https://www.sbseg2026.uff.br/) - _Armação Dos Búzios/RJ_ 🏢
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 8, 9, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ 🔀
+- 17 e 18: [Festival SGB 2026](https://festival.sgb.org.br/) - _Florianópolis/SC_ 🏢
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
 <!-- SETEMBRO:END -->
