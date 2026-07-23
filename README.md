@@ -46,6 +46,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ 🏢
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ 🏢
 - 16: [Devopsdays Natal](https://linktr.ee/devopsdaysnatal) - _Natal/RN_ 🏢
+- 18, 19, 20, 21 e 22: [II SEMANA DA CIÊNCIA, TECNOLOGIA E ENGENHARIA - Unimontes/MG](https://www.even3.com.br/ii-semana-da-ciencia-tecnologia-e-engenharia-729507/) - _Montes Claros/MG_ 🏢
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ 🏢
 - 26: [Meetup: Organizando o código com Package by component + C4 + Structurizr](https://organizandoocodigo.eventize.com.br/) - _Porto Alegre/RS_ 🏢
 - 28: [Insurtech Brasil](https://www.insurtechbrasil.com/) - _São Paulo/SP_ 🏢
@@ -60,10 +61,12 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
 - 20: [Microsoft Build //localhost:florianópolis](https://developer.microsoft.com/pt-br/reactor/events/27206/) - _Florianópolis/SC_ 🏢
 - 20: [Festival SGB Na Estrada Uberlândia](https://festival.sgb.org.br/uberlandia/) - _Uberlândia/MG_ 🏢
+- 23: [Esquenta Unicoder Summit - Palestra com Pablo Lacerda - Staff Technical Lead Manager do Google nos Estados Unidos](https://www.instagram.com/unicoder.unimontes/) - _Montes Claros/MG_ 🏢
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
 - 8, 9, 10 e 11: [Web Summit Rio - SaaS Summit](https://rio.websummit.com/pt-br/tracks/saas-summit/) - _Rio De Janeiro/RJ_ 🏢
+- 16: [Hackathon CODA.CE](https://coda-ce.com.br/hackathon) - _Fortaleza/CE_ 🏢
 - 22, 23 e 24: [TDC Floripa 2026](https://thedevconf.com/tdc/2026/index.html) - _Florianópolis/SC_ 🔀
 - 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ 🏢
 <!-- JULHO:END -->
@@ -83,6 +86,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1: [Simpósio Brasileiro de Cibersegurança 2026](https://www.sbseg2026.uff.br/) - _Armação Dos Búzios/RJ_ 🏢
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
+- 4 e 5: [TDC Hacktown](https://thedevconf.com/tdc/2026/stage/santa-rita/) - _Santa Rita Do Sapucaí/MG_ 🏢
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 8, 9, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ 🔀
 - 17 e 18: [Festival SGB 2026](https://festival.sgb.org.br/) - _Florianópolis/SC_ 🏢
@@ -91,12 +95,13 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
+- 7: [Siará Tech Summit 2026](https://stssebrae.com.br) - _Fortaleza/CE_ 🏢
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ 🏢
+- 15 e 17: [PHP Peste 2026](https://eventiza.com.br/evento/phpeste-2026) - _São Luís/MA_ 🏢
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
-- 26: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ 🏢
 - 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
 - 28 e 29: [GambiConf 2026](https://gambiconf.dev/) - _São Paulo/SP_ 🔀
 <!-- NOVEMBRO:END -->
