@@ -59,6 +59,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1 e 2: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ 🏢
 - 2: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ 🏢
 - 8, 9, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ 🏢
+- 20: [Microsoft Build //localhost:Curitiba](https://azureusergroupsbrasil.com.br/events/microsoft-build-curitiba-2026) - _Curitiba/PR_ 🏢
 - 20: [Microsoft Build //localhost:florianópolis](https://developer.microsoft.com/pt-br/reactor/events/27206/) - _Florianópolis/SC_ 🏢
 - 20: [Festival SGB Na Estrada Uberlândia](https://festival.sgb.org.br/uberlandia/) - _Uberlândia/MG_ 🏢
 - 23: [Esquenta Unicoder Summit - Palestra com Pablo Lacerda - Staff Technical Lead Manager do Google nos Estados Unidos](https://www.instagram.com/unicoder.unimontes/) - _Montes Claros/MG_ 🏢
@@ -75,9 +76,12 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ 🏢
 - 1: [Mulher Tech Sim Senhor](https://www.instagram.com/mulhertechsimsr/) - _João Pessoa/PB_ 🏢
 - 5 e 6: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ 🔀
+- 8: [Cursor Meetup Rio de Janeiro](https://luma.com/6xm5wcbe) - _Rio De Janeiro/RJ_ 🏢
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ 🏢
 - 14 e 15: [RogaDX](https://rogadx.com/) - _Maceió/AL_ 🏢
 - 24, 25, 26, 27 e 28: [SEMCOMP 2026 - Semana de Computação de Salvador](https://www.semcomp.com.br/) - _Salvador/BA_ 🏢
+- 24, 25, 26, 27 e 28: [SSI 2026 - Semana de Sistemas de Informação](https://www.semanadesi.com/) - _São Paulo/SP_ 🔀
+- 26: [iMendes Day 2026](https://grupoimendes.com.br/imendes-day-26/) - _São Paulo/SP_ 🏢
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ 🔀
 - 29: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ 🏢
 <!-- AGOSTO:END -->
@@ -86,23 +90,31 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 1: [Simpósio Brasileiro de Cibersegurança 2026](https://www.sbseg2026.uff.br/) - _Armação Dos Búzios/RJ_ 🏢
 - 2, 3 e 4: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ 🏢
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
+- 3: [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ 🏢
+- 3, 4, 5, 6 e 7: [HackTown](https://hacktown.com.br/) - _Santa Rita Do Sapucaí/MG_ 🏢
 - 4 e 5: [TDC Hacktown](https://thedevconf.com/tdc/2026/stage/santa-rita/) - _Santa Rita Do Sapucaí/MG_ 🏢
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 8, 9, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ 🔀
+- 12: [Paraibajs](https://www.sympla.com.br/evento/paraibajs/3494354) - _João Pessoa/PB_ 🏢
+- 16: [17.º Bitdevs](https://luma.com/wpfaklie) - _Porto Alegre/RS_ 🏢
 - 17 e 18: [Festival SGB 2026](https://festival.sgb.org.br/) - _Florianópolis/SC_ 🏢
+- 18: [CERISE SUMMIT 2026](https://cerise.ufg.br/) - _Goiânia/GO_ 🏢
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
+- 26: [Devin Meetup Rio de Janeiro](https://luma.com/l2f11j2p) - _Rio De Janeiro/RJ_ 🏢
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
 - 7: [Siará Tech Summit 2026](https://stssebrae.com.br) - _Fortaleza/CE_ 🏢
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ 🏢
 - 15 e 17: [PHP Peste 2026](https://eventiza.com.br/evento/phpeste-2026) - _São Luís/MA_ 🏢
+- 31: [DevFest Porto Alegre 2026](https://devfestportoalegre.com.br) - _Porto Alegre/RS_ 🏢
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
 - 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
+- 28: [JSConf Brasil 2026](https://jsconf.com.br/) - _São Caetano Do Sul/SP_ 🏢
 - 28 e 29: [GambiConf 2026](https://gambiconf.dev/) - _São Paulo/SP_ 🔀
 <!-- NOVEMBRO:END -->
 ### Dezembro

@@ -9163,6 +9163,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Microsoft Build //localhost:Curitiba",
+              "data": [
+                "20"
+              ],
+              "url": "https://azureusergroupsbrasil.com.br/events/microsoft-build-curitiba-2026",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Microsoft Build //localhost:florianópolis",
               "data": [
                 "20"
@@ -9281,6 +9291,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Cursor Meetup Rio de Janeiro",
+              "data": [
+                "08"
+              ],
+              "url": "https://luma.com/6xm5wcbe",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Codecon Summit 2026",
               "data": [
                 "14"
@@ -9313,6 +9333,30 @@
               "url": "https://www.semcomp.com.br/",
               "cidade": "Salvador",
               "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SSI 2026 - Semana de Sistemas de Informação",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.semanadesi.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "iMendes Day 2026",
+              "data": [
+                "26"
+              ],
+              "url": "https://grupoimendes.com.br/imendes-day-26/",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -9377,6 +9421,30 @@
               "tipo": "presencial"
             },
             {
+              "nome": "AWS Summit São Paulo",
+              "data": [
+                "03"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "HackTown",
+              "data": [
+                "03",
+                "04",
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://hacktown.com.br/",
+              "cidade": "Santa Rita Do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Hacktown",
               "data": [
                 "04",
@@ -9414,6 +9482,26 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Paraibajs",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/paraibajs/3494354",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "17.º Bitdevs",
+              "data": [
+                "16"
+              ],
+              "url": "https://luma.com/wpfaklie",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Festival SGB 2026",
               "data": [
                 "17",
@@ -9422,6 +9510,16 @@
               "url": "https://festival.sgb.org.br/",
               "cidade": "Florianópolis",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CERISE SUMMIT 2026",
+              "data": [
+                "18"
+              ],
+              "url": "https://cerise.ufg.br/",
+              "cidade": "Goiânia",
+              "uf": "GO",
               "tipo": "presencial"
             },
             {
@@ -9445,6 +9543,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Devin Meetup Rio de Janeiro",
+              "data": [
+                "26"
+              ],
+              "url": "https://luma.com/l2f11j2p",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9482,6 +9590,16 @@
               "cidade": "São Luís",
               "uf": "MA",
               "tipo": "presencial"
+            },
+            {
+              "nome": "DevFest Porto Alegre 2026",
+              "data": [
+                "31"
+              ],
+              "url": "https://devfestportoalegre.com.br",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9508,6 +9626,16 @@
               "url": "https://frontin.floripa.br/",
               "cidade": "Florianópolis",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "JSConf Brasil 2026",
+              "data": [
+                "28"
+              ],
+              "url": "https://jsconf.com.br/",
+              "cidade": "São Caetano Do Sul",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
