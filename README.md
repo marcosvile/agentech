@@ -92,6 +92,7 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 2, 3 e 4: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ 🏢
 - 3: [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ 🏢
 - 3, 4, 5, 6 e 7: [HackTown](https://hacktown.com.br/) - _Santa Rita Do Sapucaí/MG_ 🏢
+- 4: [Business [Lab] | As 10 vulnerabilidades mais comuns no vibe coding](https://luma.com/y27za130) 💻
 - 4 e 5: [TDC Hacktown](https://thedevconf.com/tdc/2026/stage/santa-rita/) - _Santa Rita Do Sapucaí/MG_ 🏢
 - 8, 9, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ 🏢
 - 8, 9, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ 🔀
@@ -100,18 +101,22 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 17 e 18: [Festival SGB 2026](https://festival.sgb.org.br/) - _Florianópolis/SC_ 🏢
 - 18: [CERISE SUMMIT 2026](https://cerise.ufg.br/) - _Goiânia/GO_ 🏢
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ 🏢
+- 22, 23 e 24: [GPS Conference 2026](https://artia.com/gpsconference2026?bid=hf3ogwgw) 💻
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ 🔀
 - 26: [Devin Meetup Rio de Janeiro](https://luma.com/l2f11j2p) - _Rio De Janeiro/RJ_ 🏢
+- 26: [KCD(Kubernetes Community Days) São Paulo 2026](https://community2.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-sao-paulo-2026/) - _São Paulo/SP_ 🏢
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
 - 7: [Siará Tech Summit 2026](https://stssebrae.com.br) - _Fortaleza/CE_ 🏢
+- 7: [Laboratório Hacker de Campinas](https://eventos.lhc.net.br/event/lhc-convida-andre-chagas-tema-solucoes-abertas-para-problemas-locais-como-o-hardware-livre-pode-revolucionar-a-pesquisa-e-a-educacao) - _Campinas/SP_ 🏢
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ 🏢
 - 15 e 17: [PHP Peste 2026](https://eventiza.com.br/evento/phpeste-2026) - _São Luís/MA_ 🏢
 - 31: [DevFest Porto Alegre 2026](https://devfestportoalegre.com.br) - _Porto Alegre/RS_ 🏢
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
+- 7: [PlatformCon São Paulo](https://saopaulo.platformcon.com/pt/) - _São Paulo/SP_ 🏢
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
 - 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
 - 28: [JSConf Brasil 2026](https://jsconf.com.br/) - _São Caetano Do Sul/SP_ 🏢

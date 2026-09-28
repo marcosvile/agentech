@@ -9431,6 +9431,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "AWS Summit São Paulo",
+              "data": [
+                "03"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "HackTown",
               "data": [
                 "03",
@@ -9443,6 +9453,16 @@
               "cidade": "Santa Rita Do Sapucaí",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Business [Lab] | As 10 vulnerabilidades mais comuns no vibe coding",
+              "data": [
+                "04"
+              ],
+              "url": "https://luma.com/y27za130",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "TDC Hacktown",
@@ -9533,6 +9553,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "GPS Conference 2026",
+              "data": [
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://artia.com/gpsconference2026?bid=hf3ogwgw",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "TDC São Paulo",
               "data": [
                 "23",
@@ -9553,6 +9585,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "KCD(Kubernetes Community Days) São Paulo 2026",
+              "data": [
+                "26"
+              ],
+              "url": "https://community2.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-sao-paulo-2026/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9568,6 +9610,16 @@
               "url": "https://stssebrae.com.br",
               "cidade": "Fortaleza",
               "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Laboratório Hacker de Campinas",
+              "data": [
+                "07"
+              ],
+              "url": "https://eventos.lhc.net.br/event/lhc-convida-andre-chagas-tema-solucoes-abertas-para-problemas-locais-como-o-hardware-livre-pode-revolucionar-a-pesquisa-e-a-educacao",
+              "cidade": "Campinas",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -9607,6 +9659,16 @@
           "mes": "novembro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "PlatformCon São Paulo",
+              "data": [
+                "07"
+              ],
+              "url": "https://saopaulo.platformcon.com/pt/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
             {
               "nome": "TDC Experience Recife | Rec'n'Play",
               "data": [
