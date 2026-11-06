@@ -59,16 +59,41 @@ def load_database(path: Path) -> dict:
 
 
 def pick_target_year(database: dict, requested_year: int | None) -> dict:
-    years = [year for year in database.get("eventos", []) if not year.get("arquivado")]
-    if not years:
-        raise ValueError("no active years found in database")
+    years = database.get("eventos", [])
 
-    target_year = requested_year if requested_year is not None else date.today().year
-    for year in years:
+    active_years = [
+        year
+        for year in years
+        if not year.get("arquivado", False)
+        or any(
+            not month.get("arquivado", False)
+            for month in year.get("meses", [])
+        )
+    ]
+
+    if not active_years:
+        raise ValueError(
+            "No active years or months found in database"
+        )
+
+    target_year = (
+        requested_year
+        if requested_year is not None
+        else date.today().year
+    )
+
+    for year in active_years:
         if year.get("ano") == target_year:
             return year
 
-    raise ValueError(f"year {target_year} not found in database")
+    available_years = [
+        year.get("ano") for year in active_years
+    ]
+
+    raise ValueError(
+        f"Year {target_year} not found. "
+        f"Available years: {available_years}"
+    )
 
 
 def sort_months(months: Sequence[dict]) -> List[dict]:
