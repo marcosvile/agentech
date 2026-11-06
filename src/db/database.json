@@ -8730,7 +8730,7 @@
     },
     {
       "ano": 2026,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
         {
           "mes": "janeiro",
@@ -9652,6 +9652,21 @@
               "cidade": "Porto Alegre",
               "uf": "RS",
               "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Conference Brasil 2026",
+              "data": [
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -9667,6 +9682,16 @@
               "url": "https://saopaulo.platformcon.com/pt/",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "MVP CONF REGIONAL FLORIANÓPOLIS",
+              "data": [
+                "07"
+              ],
+              "url": "https://mvpconf.com.br/regional/florianopolis/unisenai",
+              "cidade": "Florianópolis",
+              "uf": "SC",
               "tipo": "presencial"
             },
             {
@@ -9717,19 +9742,6 @@
           "mes": "dezembro",
           "arquivado": false,
           "eventos": [
-            {
-              "nome": "PHP Conference Brasil 2026",
-              "data": [
-                "03",
-                "04",
-                "05",
-                "06"
-              ],
-              "url": "https://phpconference.com.br/",
-              "cidade": "",
-              "uf": "",
-              "tipo": "online"
-            },
             {
               "nome": "TDCX PORTO ALEGRE",
               "data": [

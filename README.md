@@ -112,11 +112,13 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 - 7: [Laboratório Hacker de Campinas](https://eventos.lhc.net.br/event/lhc-convida-andre-chagas-tema-solucoes-abertas-para-problemas-locais-como-o-hardware-livre-pode-revolucionar-a-pesquisa-e-a-educacao) - _Campinas/SP_ 🏢
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ 🏢
 - 15 e 17: [PHP Peste 2026](https://eventiza.com.br/evento/phpeste-2026) - _São Luís/MA_ 🏢
+- 19, 20, 21, 22, 23 e 24: [PHP Conference Brasil 2026](https://phpconference.com.br/) - _Maringá/PR_ 🔀
 - 31: [DevFest Porto Alegre 2026](https://devfestportoalegre.com.br) - _Porto Alegre/RS_ 🏢
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 7: [PlatformCon São Paulo](https://saopaulo.platformcon.com/pt/) - _São Paulo/SP_ 🏢
+- 7: [MVP CONF REGIONAL FLORIANÓPOLIS](https://mvpconf.com.br/regional/florianopolis/unisenai) - _Florianópolis/SC_ 🏢
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ 🔀
 - 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ 🏢
 - 28: [JSConf Brasil 2026](https://jsconf.com.br/) - _São Caetano Do Sul/SP_ 🏢
@@ -124,7 +126,6 @@ Lista de eventos coletados automaticamente a partir do banco de dados do projeto
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
-- 3, 4, 5 e 6: [PHP Conference Brasil 2026](https://phpconference.com.br/) 💻
 - 9 e 10: [TDCX PORTO ALEGRE](https://thedevconf.com/tdc/2026/index.html) - _Porto Alegre/RS_ 🔀
 <!-- DEZEMBRO:END -->
 <!-- ANO2026:END -->
